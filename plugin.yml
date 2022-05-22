@@ -1,0 +1,6 @@
+name: Kick
+main: com.SpicyS.Main
+version: 1.0
+commands:
+  kickall:
+  maintanance:
